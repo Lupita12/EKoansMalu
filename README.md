@@ -1,2 +1,0 @@
-# EKoansMalu
-RubyKoans
